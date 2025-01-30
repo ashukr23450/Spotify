@@ -6,7 +6,6 @@ body{
     overflow: hidden;
 }
 
-
 .main{
     display: flex;
     height: 100vh;
@@ -20,7 +19,6 @@ body{
     background-color: black;
     margin-right: 0.5rem;
 }
-
 .main-content{
     background: #121212;
     flex: 1;
@@ -37,13 +35,11 @@ body{
     height: 72px;
 }
 
-
 a{
     text-decoration: none;
     color: white;
     margin-left: 1rem;
 }
-
 
 .nav{
     background-color: #121212;

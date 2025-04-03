@@ -8,4 +8,3 @@ last work is remaining
 
 work on the music bar
 
-made it its picture
